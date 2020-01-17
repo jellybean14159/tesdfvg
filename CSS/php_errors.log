@@ -1,0 +1,3 @@
+[11-May-2018 18:58:24 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/SLOsite/CSS/education-care/index.php on line 15
+[11-May-2018 18:58:24 UTC] PHP Stack trace:
+[11-May-2018 18:58:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/SLOsite/CSS/education-care/index.php:0

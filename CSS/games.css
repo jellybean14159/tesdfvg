@@ -1,0 +1,15 @@
+.container {
+    max-width: 1040px;
+}
+
+#clicker {
+    max-width: 1000px;
+    background-color: #2d4351;
+}
+
+
+#processing {
+    text-align: center;
+    border: 0px solid black;
+    margin-top: 0.5em;
+}
